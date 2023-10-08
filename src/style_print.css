@@ -1,0 +1,11 @@
+.page {
+    background-color: #ffffff;
+    width: 710px;
+    height: 1003px;
+    /* border: solid #000000 1px; */
+  }
+
+* {
+    margin: 0;
+    padding: 0;
+}
